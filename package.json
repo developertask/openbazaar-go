@@ -1,0 +1,12 @@
+{
+  "name": "openbazaar-go",
+  "author": "OB1 Company",
+  "version": "0.13.8",
+  "language": "english",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/developertask/openbazaar-go/issues/new"
+  },
+  "gxVersion": "0.11.0"
+}
+
